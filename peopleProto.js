@@ -1,4 +1,4 @@
-"USE strict"
+"use strict"
 
 /* prototype pattern 
 * In javascript, every object gets a shared space called

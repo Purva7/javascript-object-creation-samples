@@ -1,4 +1,4 @@
-"USE strict"
+"use strict"
 /*
 *dynamic prototype pattern
 */

@@ -1,4 +1,4 @@
-"USE strict"
+"use strict"
 
 var peopleFactory = function(name, age, state) {
 	var temp= {};
